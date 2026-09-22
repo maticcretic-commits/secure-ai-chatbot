@@ -37,3 +37,9 @@ python tests/test_secure_chatbot.py   # no API key needed
 - [ ] Signed request context instead of CLI flags
 - [ ] Rate limiting per tenant
 - [ ] Real database with parameterized queries behind the store
+
+## Support My Work
+
+If you find this project useful, consider supporting my work with a Bitcoin donation:
+
+`BC1Q6Q75K8ZJXVW7W02LMDPRPY6XX6QK4LZZ2RMVAY`
