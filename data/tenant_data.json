@@ -1,0 +1,1 @@
+{"hospital_a":{"beds":{"free":7,"total":40},"doctors":["Dr. Rao","Dr. Iyer","Dr. Khan"],"name":"City General Hospital","visiting":"10am-12pm and 4pm-6pm"},"hospital_b":{"beds":{"free":3,"total":12},"doctors":["Dr. Menon"],"name":"Lakeside Clinic","visiting":"11am-1pm"}}
