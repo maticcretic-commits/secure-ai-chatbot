@@ -1,5 +1,10 @@
 # Secure AI Chatbot
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/secure-ai-chatbot?style=social)](https://github.com/maticcretic-commits/secure-ai-chatbot/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/secure-ai-chatbot)](https://github.com/maticcretic-commits/secure-ai-chatbot/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/secure-ai-chatbot)
+
+
 A portfolio practice project: a **tenant-aware, RBAC-scoped AI chatbot** starter —
 the pattern behind "secure AI assistant inside our app" gigs (e.g. a hospital
 registry where each tenant sees only its own data).
